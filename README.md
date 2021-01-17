@@ -2,6 +2,6 @@
 Estudio general de algunos libros
 
 
-| Capitulo | Ejercicio | Estado | hint |
-| 0   | 0 | 0 | 0|
-| 0   | 0 | 0 | 0|
+| Capítulo | Ejercicio | Estado | Hint | Dificultad |
+|-------------------------------------|---------|----------|-------|-------|
+| 1                             | 1   | Resuelto     | no sé | ***   |
