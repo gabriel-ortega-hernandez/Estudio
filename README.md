@@ -4,9 +4,9 @@ Resolución del libro: Brownian Motion, Martingales, and Stochastic Calculus. Je
 
 | Capítulo | Ejercicio | Estado       | Hint    | Dificultad |
 |-------------------------------------|---------|----------|-------|-------|
-| 1        | 15.1         | Resuelto     | Cauchy-Schwarz  | \*   |
-| 1        | 15.2         | Resuelto     | Usar minkowski   | \* \*   |
-| 1        | 15.3         | Resuelto     | Usar minkowski y 15.1 (continuidad uniforme)   | \* \* \* |
+| 1        | 15.1         | Resuelto         | Cauchy-Schwarz  | \*   |
+| 1        | 15.2         | Revision (J)     | Usar minkowski   | \* \*   |
+| 1        | 15.3         | Revision (J)     | Usar minkowski y 15.1 (continuidad uniforme)   | \* \* \* |
 | 1        | 15.4         | Sin solución     | -   | -   |
 | 1        | 16.1         | Sin solución     | -   | -   |
 | 1        | 16.2         | Sin solución     | -   | -   |
